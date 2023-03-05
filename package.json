@@ -1,0 +1,23 @@
+{
+  "name": "signing-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unified-Learner-Passbook/signing-benchmarks.git"
+  },
+  "author": "ChakshuGautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unified-Learner-Passbook/signing-benchmarks/issues"
+  },
+  "homepage": "https://github.com/Unified-Learner-Passbook/signing-benchmarks#readme",
+  "dependencies": {
+    "@noble/ed25519": "^1.7.3"
+  }
+}
